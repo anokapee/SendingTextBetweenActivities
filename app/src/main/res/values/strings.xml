@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sending Text Between Activities</string>
+    <string name="send_message">Send Message</string>
+</resources>
